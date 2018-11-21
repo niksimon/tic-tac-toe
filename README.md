@@ -1,3 +1,4 @@
-# tictactoe
-Basic tictactoe in C language
-Compile with gcc
+# Tic-tac-toe
+
+>Old project<br>
+>Basic Tictactoe in C language<br>
