@@ -1,4 +1,4 @@
 # Tic-tac-toe
 
 >Old project<br>
->Basic Tictactoe in C language<br>
+>Basic Tictactoe in C<br>
